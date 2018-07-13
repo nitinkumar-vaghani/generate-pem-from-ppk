@@ -1,0 +1,1 @@
+puttygen xyz.ppk -O private-openssh -o xyz.pem  
